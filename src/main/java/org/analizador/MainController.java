@@ -96,7 +96,7 @@ public class MainController implements Initializable {
 
 
         lblTotal.setText("Tokens: " + (tokens.size() - 1)); // -1 para excluir EOF
-        lblSpecial.setText("Síbolos Especiais: " + specials);
+        lblSpecial.setText("Símbolos Especiais: " + specials);
         lblIdents.setText("Identificadores: " + idents);
         lblErros.setText("Erros: " + errs);
     }

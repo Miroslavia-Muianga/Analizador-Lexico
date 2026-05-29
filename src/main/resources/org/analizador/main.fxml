@@ -78,7 +78,7 @@
     <bottom>
         <HBox alignment="CENTER_LEFT" spacing="20" styleClass="status-bar">
             <Label fx:id="lblTotal" styleClass="status-label" text="Tokens: 0" />
-            <Label fx:id="lblSpecial" styleClass="status-label" text="Palavras-chave: 0" />
+            <Label fx:id="lblSpecial" styleClass="status-label" text="Símbolos Especiais: 0" />
             <Label fx:id="lblIdents" styleClass="status-label" text="Identificadores: 0" />
             <Label fx:id="lblErros" styleClass="status-label" text="Erros: 0" />
             <Region HBox.hgrow="ALWAYS" />
