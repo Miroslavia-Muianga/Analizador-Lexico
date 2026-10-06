@@ -1,3 +1,8 @@
+/**
+ * @author Miroslávia Muianga
+ *
+ */
+
 package org.analizador;
 public class Token {
     public TipoToken tipo;
